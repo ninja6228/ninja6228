@@ -4,13 +4,13 @@
   <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="250" height="250" ></img>
 </div>
 
-### Обо мне <img src="https://media.giphy.com/media/bh0ELLLeMVOO22cRDH/giphy.gif" height="25"/> :
+### Обо мне <img src="https://media.giphy.com/media/bh0ELLLeMVOO22cRDH/giphy.gif" height="35"/> :
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%92+%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80%D0%B0+%D1%81%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D1%81%D1%8F%3F)](https://git.io/typing-svg)
 
 ---
 
-### Технологии и инструменты <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px">
+### Технологии и инструменты <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
