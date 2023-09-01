@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
  <h1>Привет, меня зовут Алексей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="380" height="300" ></img>
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="180" height="150" ></img>
 </div>
 
 ### Обо мне :alien: :
