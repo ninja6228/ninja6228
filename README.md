@@ -22,6 +22,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
@@ -30,13 +31,13 @@
 
 ---
 
-### 💻 Codewars
+### Codewars <img src="https://media.giphy.com/media/56JHN6JhPH1f1XW53r/giphy.gif" width="35px"> :
 
 ![codewars](https://www.codewars.com/users/ninja6228/badges/large)
 
 ---
 
-### GitHub статистика
+### GitHub статистика <img src="https://media.giphy.com/media/Y0UCB5cgELX6fQIzYJ/giphy.gif" width="35px"> :
 
 <table>
   <tr>
