@@ -1,25 +1,28 @@
 
-## Привет, меня зовут Алексей<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-
----
+<div id="header" align="center">
+ <h1>Привет, меня зовут Алексей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="380" height="300" ></img>
+</div>
 
 ### Обо мне :alien: :
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%92+%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80%D0%B0+%D1%81%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D1%81%D1%8F%3F)](https://git.io/typing-svg)
 
 ---
 
-### Технологии и инструменты <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> :
+### Технологии и инструменты <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px">
+
 Добываю icons  :shipit:
 
 ---
 
-### 💻 Codewars:
+### 💻 Codewars
 
 ![codewars](https://www.codewars.com/users/ninja6228/badges/large)
 
---- 
+---
 
-### GitHub статистика:
+### GitHub статистика
 
 <table>
   <tr>
