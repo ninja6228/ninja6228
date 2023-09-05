@@ -1,16 +1,16 @@
 
-<div id="header" align="center">
- <h1>Привет, меня зовут Алексей <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="35px"/></h1>
-  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="250" height="250" ></img>
+<h1>Привет, меня зовут Алексей</h1>
+<div align="center">
+ <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="250" height="250"align="center" ></img>
 </div>
 
-### Обо мне <img src="https://media.giphy.com/media/bh0ELLLeMVOO22cRDH/giphy.gif" width="35px"/> :
+### Обо мне 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%D0%92+%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80%D0%B0+%D1%81%D0%BE%D0%B1%D0%B5%D1%80%D0%B5%D0%BC%D1%81%D1%8F%3F)](https://git.io/typing-svg)
 
 ---
 
-### Технологии и инструменты <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/> :
+### Технологии и инструменты <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"/> 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -31,13 +31,13 @@
 
 ---
 
-### Codewars <img src="https://media.giphy.com/media/56JHN6JhPH1f1XW53r/giphy.gif" width="35px"/> :
+### Codewars <img src="https://media.giphy.com/media/56JHN6JhPH1f1XW53r/giphy.gif" width="35px"/> 
 
 ![codewars](https://www.codewars.com/users/ninja6228/badges/large)
 
 ---
 
-### GitHub статистика <img src="https://media.giphy.com/media/Y0UCB5cgELX6fQIzYJ/giphy.gif" width="35px"/> :
+### GitHub статистика <img src="https://media.giphy.com/media/Y0UCB5cgELX6fQIzYJ/giphy.gif" width="35px"/> 
 
 <table>
   <tr>
