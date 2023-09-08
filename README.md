@@ -1,5 +1,4 @@
-### Привет, меня зовут Алексей
-
+# Привет, меня зовут Алексей
 <div align="center">
  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="250" height="250"align="center" ></img>
 </div>
